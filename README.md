@@ -21,10 +21,10 @@ I have demonstrated how to classify positive and negative pneumonia data from a 
 ### Dataset
 ![1](https://user-images.githubusercontent.com/103516326/176655277-bfd5ecd4-5939-415b-9789-1f9d26064d54.jpg)
 ### Sample in Dataset
-![Sample in DataSet](https://user-images.githubusercontent.com/54640931/124766765-d47ada00-df54-11eb-9917-ba5a87f29f9c.png)
+![2](https://user-images.githubusercontent.com/103516326/176655584-94172940-33cc-40a3-87d7-46bfa9d91e82.jpg)
 ### Loss and Accuracy v/s Epoches
-![Loss](https://user-images.githubusercontent.com/54640931/124766814-e197c900-df54-11eb-8e00-be9fad9cb8d2.png)
+![3](https://user-images.githubusercontent.com/103516326/176655748-88512d08-9098-44b7-88f7-eec931df5c0e.jpg)
 ### Correlation
-![Correlation](https://user-images.githubusercontent.com/54640931/124766863-ebb9c780-df54-11eb-9921-5548598d3b17.png)
+![4](https://user-images.githubusercontent.com/103516326/176655825-3a19e46f-0a76-454d-8b33-84a92372ba0e.jpg)
 
 
