@@ -19,7 +19,7 @@ Pneumonia is a life-threatening infectious disease affecting one or both lungs i
 I have demonstrated how to classify positive and negative pneumonia data from a collection of X-ray images. The model was made from scratch, which separates it from other methods that rely heavily on transfer learning approach. In the future this work could be extended to detect and classify X-ray images consisting of lung cancer and pneumonia. Distinguishing X-ray images that contain lung cancer and pneumonia has been a big issue in recent times, and our next approach should be to tackle this problem.
 ## Here are the images of the model
 ### Dataset
-![Dataset](https://user-images.githubusercontent.com/54640931/124766717-c927ae80-df54-11eb-8e0a-d24cb305fe50.png)
+![1](https://user-images.githubusercontent.com/103516326/176655277-bfd5ecd4-5939-415b-9789-1f9d26064d54.jpg)
 ### Sample in Dataset
 ![Sample in DataSet](https://user-images.githubusercontent.com/54640931/124766765-d47ada00-df54-11eb-9917-ba5a87f29f9c.png)
 ### Loss and Accuracy v/s Epoches
