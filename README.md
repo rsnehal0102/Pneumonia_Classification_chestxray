@@ -27,4 +27,6 @@ I have demonstrated how to classify positive and negative pneumonia data from a 
 ### Correlation
 ![4](https://user-images.githubusercontent.com/103516326/176655825-3a19e46f-0a76-454d-8b33-84a92372ba0e.jpg)
 
+BY SNEHAL RAY
+
 
